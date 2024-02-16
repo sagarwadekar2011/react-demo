@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  background-color: #00b4d8;
+}
+
+.logo {
+  display: flex;
+  width: 8rem;
+  justify-content: flex-start;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  display: flex;
+}
+
+a {
+  bottom: 0px;
+  margin: 1rem 1rem 0 1rem;
+  background-color: #ffffff;
+  align-items: center;
+  align-content: center;
+  border-radius: 4px;
+  padding: 4px;
+  text-decoration: none;
+  color: rgb(121, 115, 115);
+  border: 1px solid #ffd166;
+  font-weight: 600;
+}
+
+nav {
+  display: flex;
+  position: relative;
+  top: 50px;
+}
+
+.profile {
+  position: relative;
+  top: 50px;
+}
